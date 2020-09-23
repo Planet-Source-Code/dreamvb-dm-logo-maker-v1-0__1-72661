@@ -1,0 +1,4 @@
+[Binder]Games
+[Sect]New[Key]NewInd2[Parent]binder
+[Sect]Ben[Key]BenInd3[Parent]NewInd2
+[Doc]Tools.bas[Key]doc4[Loc]C:\Users\Ben\Desktop\Programming\Programming\VB6\New Projects\BM-IT\dmLogoMaker\mod\Tools.bas[Parent]BenInd3
